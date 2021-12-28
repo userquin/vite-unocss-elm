@@ -1,8 +1,8 @@
 {
-  "name": "vite-elm-template",
-  "author": "Lindsay Wardell",
-  "description": "A staring template for building Elm apps with Vite",
-  "version": "1.1.0",
+  "name": "vite-unocss-elm",
+  "author": "Joaquín Sánchez",
+  "description": "A staring template for building Elm apps with Vite + UnoCSS",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "postinstall": "elm-tooling install",
