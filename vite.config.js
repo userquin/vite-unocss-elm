@@ -6,7 +6,6 @@ import presetIcons  from "@unocss/preset-icons";
 
 export default defineConfig({
   plugins: [
-    elmPlugin(),
     UnoCSS({
       include: [/\.elm$/],
       shortcuts: [
@@ -17,5 +16,6 @@ export default defineConfig({
         presetIcons()
       ],
     }),
+    elmPlugin(),
   ],
 });
