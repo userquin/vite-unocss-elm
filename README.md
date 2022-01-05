@@ -6,6 +6,8 @@ A default template for building Elm applications using Vite. Includes hot-module
 
 > Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 
+> [UnoCSS](https://github.com/antfu/unocss) is an instant on-demand Atomic CSS engine
+> 
 ## Features
 
 - Hot Module Reload of all code in the app (including Elm)
